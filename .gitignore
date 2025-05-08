@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Data and model files
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.ckpt
+*.onnx
+*.log
+*.csv
+*.tsv
+*.db
+*.sqlite3
+chromadb_store/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Python egg files
+*.egg-info/
+*.egg
+
+dist/
+build/
+
+# Test outputs
+htmlcov/
+.coverage
+.tox/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Ignore data directory (uncomment if you want to exclude all data)
+# Data/

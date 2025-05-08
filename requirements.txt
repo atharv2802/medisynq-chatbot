@@ -1,0 +1,11 @@
+dotenv
+streamlit
+pyspur
+transformers
+chromadb
+groq
+requests
+serpapi
+pandas
+pydantic
+torch
