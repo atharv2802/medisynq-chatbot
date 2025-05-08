@@ -9,3 +9,4 @@ serpapi
 pandas
 pydantic
 torch
+tqdm
