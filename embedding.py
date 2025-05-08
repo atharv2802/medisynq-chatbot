@@ -4,7 +4,7 @@
 from transformers import AutoTokenizer, AutoModel
 import torch
 
-# TODO: Download and cache BioBERT weights (e.g., dmis-lab/biobert-base-cased-v1.1)
+
 BIOBERT_MODEL_NAME = "dmis-lab/biobert-base-cased-v1.1"
 _tokenizer = None
 _model = None
