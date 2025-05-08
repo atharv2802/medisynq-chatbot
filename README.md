@@ -51,7 +51,6 @@ pip install -r requirements.txt
 
 > ⚠️ **Important (ONNXRuntime Fix for NumPy Compatibility)**  
 > If you're using **Python 3.11.5** and encounter an error related to `onnxruntime` or `numpy`, run:
-> ```sh
 > pip uninstall onnxruntime
 > pip install onnxruntime==1.15.1
 > ```
